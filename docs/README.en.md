@@ -4,7 +4,7 @@
 
 **Claude Code / Codex Skill. One sentence — "diagnose this IP" — and get a full six-dimension IP entrepreneurship diagnostic report covering Positioning, Persona, Content, Data, Monetization, and Growth, with both executive summary and comprehensive versions.**
 
-> 🧠 **Recommended pairing: [opencli](https://github.com/JuneYaooo/opencli)** — enable web search for your AI agent so it can gather public information about the IP (media coverage, community discussions, competitor activity) across the entire internet, far beyond what a single social profile shows.
+> 🧠 **Recommended pairing: [opencli](https://github.com/jackwener/opencli)** — enable web search for your AI agent so it can gather public information about the IP (media coverage, community discussions, competitor activity) across the entire internet, far beyond what a single social profile shows.
 
 [![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/ip-entrepreneur-skills?style=flat)](https://github.com/JuneYaooo/ip-entrepreneur-skills/stargazers)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](../LICENSE)
@@ -47,7 +47,7 @@ git clone git@github.com:JuneYaooo/ip-entrepreneur-skills.git
 # Or place it under ~/.claude/skills/ip-entrepreneur/
 ```
 
-> 🧠 **Strongly recommend also installing [opencli](https://github.com/JuneYaooo/opencli)**, which gives Claude Code web search capabilities. With web access enabled, the AI can search for real-time public information about the IP across all platforms, rather than relying solely on what you describe.
+> 🧠 **Strongly recommend also installing [opencli](https://github.com/jackwener/opencli)**, which gives Claude Code web search capabilities. With web access enabled, the AI can search for real-time public information about the IP across all platforms, rather than relying solely on what you describe.
 
 ---
 

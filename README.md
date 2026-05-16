@@ -4,7 +4,7 @@
 
 **Claude Code / Codex Skill。一句「帮我诊断这个 IP」，自动六维度深度诊断 —— 定位×人设×内容×数据×变现×长期，精华版 + 全面版双输出。**
 
-> 🧠 **推荐搭配 [opencli](https://github.com/JuneYaooo/opencli) 使用** — 用 opencli 启用联网搜索，AI 可以全网搜罗该 IP 的公开信息（媒体报道、社区讨论、竞品动态），诊断深度远超只看一个社交账号。
+> 🧠 **推荐搭配 [opencli](https://github.com/jackwener/opencli) 使用** — 用 opencli 启用联网搜索，AI 可以全网搜罗该 IP 的公开信息（媒体报道、社区讨论、竞品动态），诊断深度远超只看一个社交账号。
 
 [![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/ip-entrepreneur-skills?style=flat)](https://github.com/JuneYaooo/ip-entrepreneur-skills/stargazers)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
@@ -147,7 +147,7 @@ git clone git@github.com:JuneYaooo/ip-entrepreneur-skills.git
 # 或者放到 ~/.claude/skills/ip-entrepreneur/
 ```
 
-> 🧠 **强烈建议同时安装 [opencli](https://github.com/JuneYaooo/opencli)**，为 Claude Code 开启联网搜索。有了网络访问能力后，AI 诊断时可以实时搜索该 IP 在所有平台的公开信息，而非仅凭你提供的描述进行分析。
+> 🧠 **强烈建议同时安装 [opencli](https://github.com/jackwener/opencli)**，为 Claude Code 开启联网搜索。有了网络访问能力后，AI 诊断时可以实时搜索该 IP 在所有平台的公开信息，而非仅凭你提供的描述进行分析。
 
 ---
 
